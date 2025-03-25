@@ -3,7 +3,7 @@
 # About Me Page
 
 ## Description
-This is a simple HTML project that introduces who I am, my interests, and a few of my favorite links.
+This is my HTML project that introduces who I am, my interests, and a single favorite link of mine.
 
 ## Author
 Your Name - [GitHub Profile](https://github.com/DarrylClay2005)
@@ -16,4 +16,4 @@ Your Name - [GitHub Profile](https://github.com/DarrylClay2005)
 - ![Profile Image](file:///C:/Users/heave/OneDrive/Pictures/Usable%20Profile%20Pictures/Round%20Photo_May222024_150119.png)
 
 ## Technologies Used
-- HTML
+- HTML and Visual Code Studio
