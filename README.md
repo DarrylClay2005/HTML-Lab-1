@@ -19,3 +19,5 @@ Darryl Clay - [GitHub Profile](https://github.com/DarrylClay2005)
 - HTML and Visual Code Studio
 
 <p>UPDATED 3/25/2025 TO INCLUDE UPDATED INDEX.HTML FILE</p>
+
+<a href="https://github.com/DarrylClay2005">My Github Page</a>
