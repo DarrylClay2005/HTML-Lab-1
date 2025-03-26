@@ -17,3 +17,5 @@ Darryl Clay - [GitHub Profile](https://github.com/DarrylClay2005)
 
 ## Technologies Used
 - HTML and Visual Code Studio
+
+<p>UPDATED 3/25/2025 TO INCLUDE UPDATED INDEX.HTML FILE</p>
